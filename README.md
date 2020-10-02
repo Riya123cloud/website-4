@@ -1,4 +1,4 @@
-Let's Encrypt Website
+The  Encryption  Website
 =====================
 
 This is the repository for the main [Let's Encrypt website].
